@@ -1,0 +1,11 @@
+# .gitignore
+.ipynb_checkpoints
+
+# folders
+test
+
+# notebooks
+*.ipynb
+
+# env file
+.env
